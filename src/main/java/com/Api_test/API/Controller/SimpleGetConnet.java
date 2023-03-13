@@ -3,7 +3,7 @@ package com.Api_test.API.Controller;
 public class SimpleGetConnet {
 private String Msg;
 	public SimpleGetConnet(String message) {
-	// TODO Auto-generated constructor stub
+	 
 		this.Msg=message;
 }
 	
